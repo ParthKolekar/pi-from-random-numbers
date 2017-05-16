@@ -3,7 +3,7 @@ Image To HTML
 
 Inspired by 
 
-![inspiration](https://www.youtube.com/watch?v=RZBhSi_PwHU)
+[inspiration](https://www.youtube.com/watch?v=RZBhSi_PwHU)
 
 
 Usage
